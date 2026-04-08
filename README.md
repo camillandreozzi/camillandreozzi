@@ -8,3 +8,9 @@ MSc in Statistics at ETH Zürich. Interested in probability, stochastic modellin
 
 ## Currently Reading
 > **The Genial Gene** — Joan Roughgarden  
+
+
+
+![Preview](figures/rps_dynamics.png)
+
+Simulation-based exploration of Rock–Paper–Scissors and side-blotched lizard dynamics.
