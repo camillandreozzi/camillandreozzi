@@ -1,5 +1,3 @@
-# Camilla Andreozzi
-
 MSc in Statistics at ETH Zürich. Interested in probability, stochastic modelling, AI, and geospatial data systems.
 
 ## Featured work
