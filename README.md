@@ -7,9 +7,11 @@ MSc in Statistics at ETH Zürich. Interested in probability, stochastic modellin
 - **VDA Geospatial Energy Analysis** — spatial and temporal modelling combining meteorological, tourism, and energy data
 
 ## Currently Reading
-> **Three Body Problem** - Cixin Liu
+> **Giovanni's Room** - James Baldwin
 
 ## Done Reading
+> **Three Body Problem** - Cixin Liu
+> 
 > **Une gourmandise** - Muriel Barbery
 > 
 > **The Genial Gene** — Joan Roughgarden  
