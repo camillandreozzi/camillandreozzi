@@ -7,9 +7,11 @@ MSc in Statistics at ETH Zürich. Interested in probability, stochastic modellin
 - **VDA Geospatial Energy Analysis** — spatial and temporal modelling combining meteorological, tourism, and energy data
 
 ## Currently Reading
-> **Giovanni's Room** - James Baldwin
+> **First Love and other stories** - Ivan Turgenev
 
 ## Done Reading
+> **Giovanni's Room** - James Baldwin
+> 
 > **Three Body Problem** - Cixin Liu
 > 
 > **Une gourmandise** - Muriel Barbery
