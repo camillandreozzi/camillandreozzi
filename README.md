@@ -7,13 +7,16 @@ MSc in Statistics at ETH Zürich. Interested in probability, stochastic modellin
 - **VDA Geospatial Energy Analysis** — spatial and temporal modelling combining meteorological, tourism, and energy data
 
 ## Currently Reading
-> **First Love and other stories** - Ivan Turgenev
+> **The Informers** - Bret Easton Ellis
 
 ## Done Reading
+> **First Love and other stories** - Ivan Turgenev
+>
 > **Giovanni's Room** - James Baldwin
 > 
 > **Three Body Problem** - Cixin Liu
 > 
 > **Une gourmandise** - Muriel Barbery
 > 
-> **The Genial Gene** — Joan Roughgarden  
+> **The Genial Gene** — Joan Roughgarden
+
