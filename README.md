@@ -7,9 +7,13 @@ MSc in Statistics at ETH Zürich. Interested in probability, stochastic modellin
 - **VDA Geospatial Energy Analysis** — spatial and temporal modelling combining meteorological, tourism, and energy data
 
 ## Currently Reading
-> **Troubling Love** - Elena Ferrante
+> **Middlesex** - Jeffrey Eugenides
 
 ## Done Reading
+> **Lost Lambs** - Madeline Cash
+>
+> **Troubling Love** - Elena Ferrante
+> 
 > **The Informers** - Bret Easton Ellis
 >
 > **First Love and other stories** - Ivan Turgenev
