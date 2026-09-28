@@ -7,9 +7,11 @@ MSc in Statistics at ETH Zürich. Interested in probability, stochastic modellin
 - **VDA Geospatial Energy Analysis** — spatial and temporal modelling combining meteorological, tourism, and energy data
 
 ## Currently Reading
-> **Middlesex** - Jeffrey Eugenides
+> **An Anatomy of Addiction: Sigmund Freud, William Halsted, and the Miracle Drug Cocaine** - Howard Markel
 
 ## Done Reading
+> **Middlesex** - Jeffrey Eugenides
+> 
 > **Lost Lambs** - Madeline Cash
 >
 > **Troubling Love** - Elena Ferrante
